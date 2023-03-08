@@ -1,0 +1,469 @@
+#EXTM3U
+#EXTINF:-1 group-title="FR: BEIN SPORTS FR" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/BEIN1FRFHD.png",|FR| BEIN SPORTS 1 FHD
+http://www.magicoiptv.org:8080/skype726282/52726383/170
+#EXTINF:-1 group-title="FR: BEIN SPORTS FR" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/BEIN2FRFHD.png",|FR| BEIN SPORTS 2 FHD
+http://www.magicoiptv.org:8080/skype726282/52726383/171
+#EXTINF:-1 group-title="FR: BEIN SPORTS FR" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTFHD/BEIN3FRFHD.png",|FR| BEIN SPORTS 3 FHD
+http://www.magicoiptv.org:8080/skype726282/52726383/172
+#EXTINF:-1 group-title="FR: BEIN SPORTS FR" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEIN1FRHD.png",|FR| BeIN Sports 1
+http://www.magicoiptv.org:8080/skype726282/52726383/173
+#EXTINF:-1 group-title="FR: BEIN SPORTS FR" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINFR2HD.png",|FR| BeIN Sports 2
+http://www.magicoiptv.org:8080/skype726282/52726383/174
+#EXTINF:-1 group-title="FR: BEIN SPORTS FR" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-SPORTHD/BEINFR3HD.png",|FR| BeIN Sports 3
+http://www.magicoiptv.org:8080/skype726282/52726383/175
+#EXTINF:-1 group-title="Bein Sport LOW" tvg-logo="http://ghostiptv.vip:80/images/664e959174fde9763f371b9988aa84e0.png",Bein Sports LOW-PERMIUM 1
+http://ghostiptv.vip:80/777444/777444/25336
+#EXTINF:-1 group-title="Bein Sport LOW" tvg-logo="http://ghostiptv.vip:80/images/9e0a9e589178c0b2f8bdfe1fccf515ae.png",Bein Sports LOW-PERMIUM 2
+http://ghostiptv.vip:80/777444/777444/25337
+#EXTINF:-1 group-title="Bein Sport LOW" tvg-logo="http://ghostiptv.vip:80/images/f53b6f0fc4152edfd40cbb095438f73d.png",Bein Sports LOW-PERMUIM 3
+http://ghostiptv.vip:80/777444/777444/25338
+#EXTINF:-1 group-title="Bein Sport LOW" tvg-logo="http://ghostiptv.vip:80/images/27cb32fe67691f6d913545795b767a28.png",Bein Sports LOW-1
+http://ghostiptv.vip:80/777444/777444/25329
+#EXTINF:-1 group-title="Bein Sport LOW" tvg-logo="http://ghostiptv.vip:80/images/6e9e1151c4b1b80b513850509a84d73a.png",Bein Sports LOW-2
+http://ghostiptv.vip:80/777444/777444/25330
+#EXTINF:-1 group-title="Bein Sport LOW" tvg-logo="http://ghostiptv.vip:80/images/0940b7d404bbd2b66820615102b9bf34.png",Bein Sports LOW-3
+http://ghostiptv.vip:80/777444/777444/25331
+#EXTINF:-1 group-title="Bein Sport LOW" tvg-logo="http://ghostiptv.vip:80/images/9209863f5031badd668c134c468bff98.png",Bein Sports LOW-4
+http://ghostiptv.vip:80/777444/777444/25332
+#EXTINF:-1 group-title="Bein Sport LOW" tvg-logo="http://ghostiptv.vip:80/images/46cfc27d0fc2aea81ea48bf174381542.png",Bein Sports LOW-5
+http://ghostiptv.vip:80/777444/777444/25333
+#EXTINF:-1 group-title="Bein Sport LOW" tvg-logo="http://ghostiptv.vip:80/images/1d2c6e6d8d24c0744011b1496dbb7217.png",Bein Sports LOW-6
+http://ghostiptv.vip:80/777444/777444/25334
+#EXTINF:-1 group-title="Bein Sport LOW" tvg-logo="http://ghostiptv.vip:80/images/ddb7f6a3dd0bacbad276dc0fef236c00.png",Bein Sports LOW-7
+http://ghostiptv.vip:80/777444/777444/25335
+#EXTINF:-1 group-title="Bein Sport LOW" tvg-logo="http://ghostiptv.vip:80/images/3aff257a92d8aec877a0f5471b365e45.png",Bein Sports LOW-ENGLISH 1
+http://ghostiptv.vip:80/777444/777444/25339
+#EXTINF:-1 group-title="Bein Sport LOW" tvg-logo="http://ghostiptv.vip:80/images/a733f8868555620556c53ff670fcb934.png",Bein Sports LOW-ENGLISH 2
+http://ghostiptv.vip:80/777444/777444/25340
+#EXTINF:-1 group-title="Bein Sport LOW" tvg-logo="http://ghostiptv.vip:80/images/3cd654390ee5de1de9c71c3c0e44f9db.png",Bein Sports LOW-ENGLISH 3
+http://ghostiptv.vip:80/777444/777444/25341
+#EXTINF:-1 group-title="Bein Sport LOW" tvg-logo="http://ghostiptv.vip:80/images/94260e63c085dc1200fad2d4a65c61af.png",Bein Sport French LOW1
+http://ghostiptv.vip:80/777444/777444/25342
+#EXTINF:-1 group-title="Bein Sport LOW" tvg-logo="http://ghostiptv.vip:80/images/0ee338a60a77f5012d04f769d4e922e7.png",Bein Sport French LOW 2
+http://ghostiptv.vip:80/777444/777444/25343
+#EXTINF:-1 group-title="Bein Sport SD" tvg-logo="http://ghostiptv.vip:80/images/664e959174fde9763f371b9988aa84e0.png",Bein Sports SD-PERMIUM 1
+http://ghostiptv.vip:80/777444/777444/25
+#EXTINF:-1 group-title="Bein Sport SD" tvg-logo="http://ghostiptv.vip:80/images/9e0a9e589178c0b2f8bdfe1fccf515ae.png",Bein Sports SD-PERMIUM 2
+http://ghostiptv.vip:80/777444/777444/26
+#EXTINF:-1 group-title="Bein Sport SD" tvg-logo="http://ghostiptv.vip:80/images/f53b6f0fc4152edfd40cbb095438f73d.png",Bein Sports SD-PERMIUM 3
+http://ghostiptv.vip:80/777444/777444/27
+#EXTINF:-1 group-title="Bein Sport SD" tvg-logo="http://ghostiptv.vip:80/images/27cb32fe67691f6d913545795b767a28.png",Bein Sports SD-1
+http://ghostiptv.vip:80/777444/777444/18
+#EXTINF:-1 group-title="Bein Sport SD" tvg-logo="http://ghostiptv.vip:80/images/6e9e1151c4b1b80b513850509a84d73a.png",Bein Sports SD-2
+http://ghostiptv.vip:80/777444/777444/19
+#EXTINF:-1 group-title="Bein Sport SD" tvg-logo="http://ghostiptv.vip:80/images/0940b7d404bbd2b66820615102b9bf34.png",Bein Sports SD-3
+http://ghostiptv.vip:80/777444/777444/20
+#EXTINF:-1 group-title="Bein Sport SD" tvg-logo="http://ghostiptv.vip:80/images/9209863f5031badd668c134c468bff98.png",Bein Sports SD-4
+http://ghostiptv.vip:80/777444/777444/21
+#EXTINF:-1 group-title="Bein Sport SD" tvg-logo="http://ghostiptv.vip:80/images/46cfc27d0fc2aea81ea48bf174381542.png",Bein Sports SD-5
+http://ghostiptv.vip:80/777444/777444/22
+#EXTINF:-1 group-title="Bein Sport SD" tvg-logo="http://ghostiptv.vip:80/images/1d2c6e6d8d24c0744011b1496dbb7217.png",Bein Sports SD-6
+http://ghostiptv.vip:80/777444/777444/23
+#EXTINF:-1 group-title="Bein Sport SD" tvg-logo="http://ghostiptv.vip:80/images/c086285f6e3e2f3b33067a856aa6ac6b.png",Bein Sports SD-7
+http://ghostiptv.vip:80/777444/777444/24
+#EXTINF:-1 group-title="Bein Sport SD" tvg-logo="http://ghostiptv.vip:80/images/3aff257a92d8aec877a0f5471b365e45.png",Bein Sports SD-ENGLISH 1
+http://ghostiptv.vip:80/777444/777444/28
+#EXTINF:-1 group-title="Bein Sport SD" tvg-logo="http://ghostiptv.vip:80/images/a733f8868555620556c53ff670fcb934.png",Bein Sports SD-ENGLISH 2
+http://ghostiptv.vip:80/777444/777444/29
+#EXTINF:-1 group-title="Bein Sport SD" tvg-logo="http://ghostiptv.vip:80/images/3cd654390ee5de1de9c71c3c0e44f9db.png",Bein Sport English SD3
+http://ghostiptv.vip:80/777444/777444/30
+#EXTINF:-1 group-title="Bein Sport SD" tvg-logo="http://ghostiptv.vip:80/images/94260e63c085dc1200fad2d4a65c61af.png",Bein Sport French SD1
+http://ghostiptv.vip:80/777444/777444/31
+#EXTINF:-1 group-title="Bein Sport SD" tvg-logo="http://ghostiptv.vip:80/images/0ee338a60a77f5012d04f769d4e922e7.png",Bein Sport French SD2
+http://ghostiptv.vip:80/777444/777444/32
+#EXTINF:-1 group-title="Bein Sport HD" tvg-logo="http://ghostiptv.vip:80/images/664e959174fde9763f371b9988aa84e0.png",Bein Sports HD-PERMIUM 1
+http://ghostiptv.vip:80/777444/777444/8
+#EXTINF:-1 group-title="Bein Sport HD" tvg-logo="http://ghostiptv.vip:80/images/9e0a9e589178c0b2f8bdfe1fccf515ae.png",Bein Sports HD-PERMIUM 2
+http://ghostiptv.vip:80/777444/777444/9
+#EXTINF:-1 group-title="Bein Sport HD" tvg-logo="http://ghostiptv.vip:80/images/f53b6f0fc4152edfd40cbb095438f73d.png",Bein Sports HD-PERMIUM 3
+http://ghostiptv.vip:80/777444/777444/10
+#EXTINF:-1 group-title="Bein Sport HD" tvg-logo="http://ghostiptv.vip:80/images/27cb32fe67691f6d913545795b767a28.png",Bein Sports HD-1
+http://ghostiptv.vip:80/777444/777444/1
+#EXTINF:-1 group-title="Bein Sport HD" tvg-logo="http://ghostiptv.vip:80/images/6e9e1151c4b1b80b513850509a84d73a.png",Bein Sports HD-2
+http://ghostiptv.vip:80/777444/777444/2
+#EXTINF:-1 group-title="Bein Sport HD" tvg-logo="http://ghostiptv.vip:80/images/0940b7d404bbd2b66820615102b9bf34.png",Bein Sports HD-3
+http://ghostiptv.vip:80/777444/777444/3
+#EXTINF:-1 group-title="Bein Sport HD" tvg-logo="http://ghostiptv.vip:80/images/9209863f5031badd668c134c468bff98.png",Bein Sports HD-4
+http://ghostiptv.vip:80/777444/777444/4
+#EXTINF:-1 group-title="Bein Sport HD" tvg-logo="http://ghostiptv.vip:80/images/46cfc27d0fc2aea81ea48bf174381542.png",Bein Sports HD-5
+http://ghostiptv.vip:80/777444/777444/5
+#EXTINF:-1 group-title="Bein Sport HD" tvg-logo="http://ghostiptv.vip:80/images/1d2c6e6d8d24c0744011b1496dbb7217.png",Bein Sports HD-6
+http://ghostiptv.vip:80/777444/777444/6
+#EXTINF:-1 group-title="Bein Sport HD" tvg-logo="http://ghostiptv.vip:80/images/ddb7f6a3dd0bacbad276dc0fef236c00.png",Bein Sports HD-7
+http://ghostiptv.vip:80/777444/777444/7
+#EXTINF:-1 group-title="Bein Sport HD" tvg-logo="http://ghostiptv.vip:80/images/3aff257a92d8aec877a0f5471b365e45.png",Bein Sports HD-ENGLISH 1
+http://ghostiptv.vip:80/777444/777444/11
+#EXTINF:-1 group-title="Bein Sport HD" tvg-logo="http://ghostiptv.vip:80/images/a733f8868555620556c53ff670fcb934.png",Bein Sports HD-ENGLISH 2
+http://ghostiptv.vip:80/777444/777444/12
+#EXTINF:-1 group-title="Bein Sport HD" tvg-logo="http://ghostiptv.vip:80/images/3cd654390ee5de1de9c71c3c0e44f9db.png",Bein Sports English HD-3
+http://ghostiptv.vip:80/777444/777444/13
+#EXTINF:-1 group-title="Bein Sport HD" tvg-logo="http://ghostiptv.vip:80/images/94260e63c085dc1200fad2d4a65c61af.png",Bein Sports French HD1
+http://ghostiptv.vip:80/777444/777444/14
+#EXTINF:-1 group-title="Bein Sport HD" tvg-logo="http://ghostiptv.vip:80/images/0ee338a60a77f5012d04f769d4e922e7.png",Bein Sports French HD2
+http://ghostiptv.vip:80/777444/777444/15
+#EXTINF:-1 group-title="Bein Sport HD" tvg-logo="http://ghostiptv.vip:80/images/0d89b64b4c89309419879e9bfc827518.png",Bein Sport NBA HD
+http://ghostiptv.vip:80/777444/777444/16
+#EXTINF:-1 group-title="Bein Sport FHD" tvg-logo="http://ghostiptv.vip:80/images/664e959174fde9763f371b9988aa84e0.png",Bein Sports FHD-PERMIUM 1
+http://ghostiptv.vip:80/777444/777444/25353
+#EXTINF:-1 group-title="Bein Sport FHD" tvg-logo="http://ghostiptv.vip:80/images/9e0a9e589178c0b2f8bdfe1fccf515ae.png",Bein Sports FHD-PERMIUM 2
+http://ghostiptv.vip:80/777444/777444/25354
+#EXTINF:-1 group-title="Bein Sport FHD" tvg-logo="http://ghostiptv.vip:80/images/f53b6f0fc4152edfd40cbb095438f73d.png",Bein Sports FHD-PERMIUM 3
+http://ghostiptv.vip:80/777444/777444/25355
+#EXTINF:-1 group-title="Bein Sport FHD" tvg-logo="http://ghostiptv.vip:80/images/27cb32fe67691f6d913545795b767a28.png",Bein Sports FHD-1
+http://ghostiptv.vip:80/777444/777444/25346
+#EXTINF:-1 group-title="Bein Sport FHD" tvg-logo="http://ghostiptv.vip:80/images/6e9e1151c4b1b80b513850509a84d73a.png",Bein Sports FHD-2
+http://ghostiptv.vip:80/777444/777444/25347
+#EXTINF:-1 group-title="Bein Sport FHD" tvg-logo="http://ghostiptv.vip:80/images/0940b7d404bbd2b66820615102b9bf34.png",Bein Sports FHD-3
+http://ghostiptv.vip:80/777444/777444/25348
+#EXTINF:-1 group-title="Bein Sport FHD" tvg-logo="http://ghostiptv.vip:80/images/9209863f5031badd668c134c468bff98.png",Bein Sports FHD-4
+http://ghostiptv.vip:80/777444/777444/25349
+#EXTINF:-1 group-title="Bein Sport FHD" tvg-logo="http://ghostiptv.vip:80/images/46cfc27d0fc2aea81ea48bf174381542.png",Bein Sports FHD-5
+http://ghostiptv.vip:80/777444/777444/25350
+#EXTINF:-1 group-title="Bein Sport FHD" tvg-logo="http://ghostiptv.vip:80/images/1d2c6e6d8d24c0744011b1496dbb7217.png",Bein Sports FHD-6
+http://ghostiptv.vip:80/777444/777444/25351
+#EXTINF:-1 group-title="Bein Sport FHD" tvg-logo="http://ghostiptv.vip:80/images/ddb7f6a3dd0bacbad276dc0fef236c00.png",Bein Sports FHD-7
+http://ghostiptv.vip:80/777444/777444/25352
+#EXTINF:-1 group-title="Bein Sport FHD" tvg-logo="http://ghostiptv.vip:80/images/3aff257a92d8aec877a0f5471b365e45.png",Bein Sports FHD-ENGLISH 1
+http://ghostiptv.vip:80/777444/777444/25356
+#EXTINF:-1 group-title="Bein Sport FHD" tvg-logo="http://ghostiptv.vip:80/images/a733f8868555620556c53ff670fcb934.png",Bein Sports FHD-ENGLISH 2
+http://ghostiptv.vip:80/777444/777444/25357
+#EXTINF:-1 group-title="Bein Sport FHD" tvg-logo="http://ghostiptv.vip:80/images/3cd654390ee5de1de9c71c3c0e44f9db.png",Bein Sports English FHD-3
+http://ghostiptv.vip:80/777444/777444/25358
+#EXTINF:-1 group-title="Bein Sport FHD" tvg-logo="http://ghostiptv.vip:80/images/27cb32fe67691f6d913545795b767a28.png",Bein Sports French HD1
+http://ghostiptv.vip:80/777444/777444/25359
+#EXTINF:-1 group-title="Bein Sport FHD" tvg-logo="http://ghostiptv.vip:80/images/0ee338a60a77f5012d04f769d4e922e7.png",Bein Sports French HD2
+http://ghostiptv.vip:80/777444/777444/25360
+#EXTINF:-1 group-title="Bein Sport FHD" tvg-logo="http://ghostiptv.vip:80/images/0d89b64b4c89309419879e9bfc827518.png",Bein Sport NBA HD
+http://ghostiptv.vip:80/777444/777444/25361
+#EXTINF:-1 group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/9209863f5031badd668c134c468bff98.png",Usa | Sport: BeIN Sports 4 HD
+http://ghostiptv.vip:80/777444/777444/44467
+#EXTINF:-1 group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/46cfc27d0fc2aea81ea48bf174381542.png",Usa | Sport: BeIN Sports 5 HD
+http://ghostiptv.vip:80/777444/777444/44468
+#EXTINF:-1 group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/7979fae3d69c62f1a6f4710fcbe0e3d0.jpg",Usa | Sport: BeIN Sports 6 HD
+http://ghostiptv.vip:80/777444/777444/44469
+#EXTINF:-1 group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/ddb7f6a3dd0bacbad276dc0fef236c00.png",Usa | Sport: BeIN Sports 7 HD
+http://ghostiptv.vip:80/777444/777444/44470
+#EXTINF:-1 group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/a012ecaaee7ac7d0a5ac6a294349d620.jpg",Usa | Sport: BeIN Sports 8 HD
+http://ghostiptv.vip:80/777444/777444/44471
+#EXTINF:-1 group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/075558738e4ccab69b18cec4e639853d.png",Usa | Sport: BeIN Sports HD
+http://ghostiptv.vip:80/777444/777444/44472
+#EXTINF:-1 group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/fcfe8390ca230624d426b0751a22b379.jpg",Usa | Sport: BeIN Sports La Liga
+http://ghostiptv.vip:80/777444/777444/44473
+#EXTINF:-1 group-title="USA",Usa | Sport: BeIN Sports Xtra HD
+http://ghostiptv.vip:80/777444/777444/44474
+#EXTINF:-1 group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/a0c387fee6d282c277b81fade88fe4aa.jpg",Usa | Sport: Big Ten Network
+http://ghostiptv.vip:80/777444/777444/44475
+#EXTINF:-1 group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/6ea6fbc16c3f59e2936ed12f5205a26c.png",Usa | Sport: BTN
+http://ghostiptv.vip:80/777444/777444/44476
+#EXTINF:-1 group-title="USA",Usa | Sport: BTN2
+http://ghostiptv.vip:80/777444/777444/44477
+#EXTINF:-1 group-title="USA",Usa | Sport: BTN3
+http://ghostiptv.vip:80/777444/777444/44478
+#EXTINF:-1 group-title="USA",Usa | Sport: BTN4
+http://ghostiptv.vip:80/777444/777444/44479
+#EXTINF:-1 group-title="USA",USA | Sport: DraftKings College Football
+http://ghostiptv.vip:80/777444/777444/44480
+#EXTINF:-1 group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/c38b8ffd06045f36921412c300f67b54.png",Usa | Sport: ESPN 1
+http://ghostiptv.vip:80/777444/777444/44481
+#EXTINF:-1 group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/c38b8ffd06045f36921412c300f67b54.png",Usa | Sport: ESPN 2
+http://ghostiptv.vip:80/777444/777444/44482
+#EXTINF:-1 group-title="USA",USA | Sport: ESPN ACC Network HD
+http://ghostiptv.vip:80/777444/777444/44483
+#EXTINF:-1 group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/18d57252d9268ac239a9ddd7750d6607.png",Usa | Sport: Espn Deportes HD
+http://ghostiptv.vip:80/777444/777444/44484
+#EXTINF:-1 group-title="USA",Usa | Sport: ESPN News
+http://ghostiptv.vip:80/777444/777444/44485
+#EXTINF:-1 group-title="USA",USA | Sport: Marquee Sports Network
+http://ghostiptv.vip:80/777444/777444/44486
+#EXTINF:-1 group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/2712a785c9a71c251237616d42100416.png",Usa | Sport: Olympic Channel
+http://ghostiptv.vip:80/777444/777444/44487
+#EXTINF:-1 group-title="USA",USA | Sport: PAC12 BayArea
+http://ghostiptv.vip:80/777444/777444/44488
+#EXTINF:-1 group-title="USA",Usa | Sport: Parliament TV
+http://ghostiptv.vip:80/777444/777444/44489
+#EXTINF:-1 group-title="USA" tvg-logo="http://ghostiptv.vip:80/images/485c0cd50d51b629d830436302f3cde8.jpg",Usa | Sport: SEC Network HD
+http://ghostiptv.vip:80/777444/777444/44490
+#EXTINF:-1 group-title="USA",USA | Sport: Stadium
+http://ghostiptv.vip:80/777444/777444/44491
+#EXTINF:-1 group-title="USA",Usa | Sport: Stadium 1
+http://ghostiptv.vip:80/777444/777444/44492
+#EXTINF:-1 group-title="USA",Usa | Sport: Stadium 2
+http://ghostiptv.vip:80/777444/777444/44493
+#EXTINF:-1 group-title="USA",USA | Sport: Stadium 3
+http://ghostiptv.vip:80/777444/777444/44494
+#EXTINF:-1 group-title="USA",USA | Sport: TVG 2 HD
+http://ghostiptv.vip:80/777444/777444/44495
+#EXTINF:-1 group-title="TURKEY" tvg-logo="http://ghostiptv.vip:80/images/27cb32fe67691f6d913545795b767a28.png",TR: BeIN Sports 1 HD
+http://ghostiptv.vip:80/777444/777444/45167
+#EXTINF:-1 group-title="TURKEY" tvg-logo="http://ghostiptv.vip:80/images/27cb32fe67691f6d913545795b767a28.png",TR: BeIN Sports 1 HD Backup
+http://ghostiptv.vip:80/777444/777444/45168
+#EXTINF:-1 group-title="TURKEY" tvg-logo="http://ghostiptv.vip:80/images/27cb32fe67691f6d913545795b767a28.png",TR: BeIN Sports 1 4K
+http://ghostiptv.vip:80/777444/777444/45169
+#EXTINF:-1 group-title="TURKEY" tvg-logo="http://ghostiptv.vip:80/images/729349de7dde5b03c7f9b71ed61eb286.jpg",TR: BeIN Sports 2 HD
+http://ghostiptv.vip:80/777444/777444/45170
+#EXTINF:-1 group-title="TURKEY" tvg-logo="http://ghostiptv.vip:80/images/729349de7dde5b03c7f9b71ed61eb286.jpg",TR: BeIN Sports 2 HD Backup
+http://ghostiptv.vip:80/777444/777444/45171
+#EXTINF:-1 group-title="TURKEY" tvg-logo="http://ghostiptv.vip:80/images/0940b7d404bbd2b66820615102b9bf34.png",TR: BeIN Sports 3 HD
+http://ghostiptv.vip:80/777444/777444/45172
+#EXTINF:-1 group-title="TURKEY" tvg-logo="http://ghostiptv.vip:80/images/0940b7d404bbd2b66820615102b9bf34.png",TR: BeIN Sports 3 HD Backup
+http://ghostiptv.vip:80/777444/777444/45173
+#EXTINF:-1 group-title="TURKEY" tvg-logo="http://ghostiptv.vip:80/images/9209863f5031badd668c134c468bff98.png",TR: BeIN Sports 4 HD
+http://ghostiptv.vip:80/777444/777444/45174
+#EXTINF:-1 group-title="TURKEY" tvg-logo="http://ghostiptv.vip:80/images/9209863f5031badd668c134c468bff98.png",TR: BeIN Sports 4 HD Backup
+http://ghostiptv.vip:80/777444/777444/45175
+#EXTINF:-1 group-title="TURKEY" tvg-logo="http://ghostiptv.vip:80/images/36e7b18c1f43cd2629cc5f8974759c3d.jpg",TR: BeIN Sports Max 1 HD
+http://ghostiptv.vip:80/777444/777444/45176
+#EXTINF:-1 group-title="TURKEY" tvg-logo="http://ghostiptv.vip:80/images/bf7430611b920fd89034ee4319859c16.png",TR: BeIN Sports Max 2 HD
+http://ghostiptv.vip:80/777444/777444/45177
+#EXTINF:-1 group-title="TURKEY" tvg-logo="http://ghostiptv.vip:80/images/28b09342ad84be9eedab27eddd250598.jpg",TR: BeIN Sports Haber HD
+http://ghostiptv.vip:80/777444/777444/45178
+#EXTINF:-1 group-title="TURKEY" tvg-logo="http://ghostiptv.vip:80/images/a18971e5c113d713500d2d247b5aa649.jpg",TR: TiviBu Sport 1 HD
+http://ghostiptv.vip:80/777444/777444/45179
+#EXTINF:-1 group-title="TURKEY" tvg-logo="http://ghostiptv.vip:80/images/a995234ca56a37e076cd170680fb40f3.jpg",TR: TiviBu Sport 2 HD
+http://ghostiptv.vip:80/777444/777444/45180
+#EXTINF:-1 group-title="TURKEY" tvg-logo="http://ghostiptv.vip:80/images/a18971e5c113d713500d2d247b5aa649.jpg",TR: TiviBu Sport 3 HD
+http://ghostiptv.vip:80/777444/777444/45181
+#EXTINF:-1 group-title="TURKEY",TR: NBA TV
+http://ghostiptv.vip:80/777444/777444/45182
+#EXTINF:-1 group-title="TURKEY",TR: Sport Smart 1 HD
+http://ghostiptv.vip:80/777444/777444/45183
+#EXTINF:-1 group-title="TURKEY",TR: Sport Smart 2 HD
+http://ghostiptv.vip:80/777444/777444/45184
+#EXTINF:-1 group-title="TURKEY",TR: S-Sport 1 HD
+http://ghostiptv.vip:80/777444/777444/45185
+#EXTINF:-1 group-title="TURKEY",TR: S-Sport 2 HD
+http://ghostiptv.vip:80/777444/777444/45186
+#EXTINF:-1 group-title="TURKEY" tvg-logo="http://ghostiptv.vip:80/images/d34e521b1e7ff84038fec7f876f6f26d.jpg",TR: TRT Spor 1 HD
+http://ghostiptv.vip:80/777444/777444/45187
+#EXTINF:-1 group-title="TURKEY",TR: TRT Spor 2 HD
+http://ghostiptv.vip:80/777444/777444/45188
+#EXTINF:-1 group-title="TURKEY",TR: TRT Spor Yildiz HD
+http://ghostiptv.vip:80/777444/777444/45189
+#EXTINF:-1 group-title="TURKEY" tvg-logo="http://ghostiptv.vip:80/images/ae8ba49798ce05314b43c87de30ba145.JPG",TR: A Spor HD
+http://ghostiptv.vip:80/777444/777444/45190
+#EXTINF:-1 group-title="TURKEY" tvg-logo="http://ghostiptv.vip:80/images/c321ef6b880e11b4055bde715577ee13.jpg",TR: EuroSport 1 HD
+http://ghostiptv.vip:80/777444/777444/45191
+#EXTINF:-1 group-title="TURKEY" tvg-logo="http://ghostiptv.vip:80/images/e6a67d271c9241e2dc7dec31ec525aa3.jpg",TR: EuroSport 2 HD
+http://ghostiptv.vip:80/777444/777444/45192
+#EXTINF:-1 group-title="TURKEY",TR: GS TV
+http://ghostiptv.vip:80/777444/777444/45193
+#EXTINF:-1 group-title="TURKEY" tvg-logo="http://ghostiptv.vip:80/images/42ffed298fc815449708e13b6fe5ec94.jpg",TR: FB TV HD
+http://ghostiptv.vip:80/777444/777444/45194
+#EXTINF:-1 group-title="TURKEY",TR: Sports TV
+http://ghostiptv.vip:80/777444/777444/45195
+#EXTINF:-1 group-title="TURKEY",Tr: EXXEN SPORT 1
+http://ghostiptv.vip:80/777444/777444/45196
+#EXTINF:-1 group-title="TURKEY",Tr: EXXEN SPORT 2
+http://ghostiptv.vip:80/777444/777444/45197
+#EXTINF:-1 group-title="TURKEY",Tr: EXXEN SPORT 3
+http://ghostiptv.vip:80/777444/777444/45198
+#EXTINF:-1 group-title="TURKEY",TR: Sardan Spor HD +1
+http://ghostiptv.vip:80/777444/777444/45199
+#EXTINF:-1 group-title="WORLD SPORT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-news-de.png",VIP SPORT: SKY SPORT NEWS (UK)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3140
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: SKY SPORT PREMIER LEAGUE (UK)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3141
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: SKY SPORTS FOOTBALL (UK)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3142
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: SKY SPORT RACING (UK)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3143
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: SKY SPORTS ARENA (UK)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3144
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: SKY SPORT MIX (UK)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3145
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: SKY SPORTS MAIN EVENT (UK)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3146
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: SKY SPORTS F1 (UK)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3147
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: SKY SPORT GOLF (UK)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3148
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: SKY SPORT CRICKET (UK)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3149
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: BT SPORT 1 (UK)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3150
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: BT SPORT 2 (UK)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3151
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: BT SPORT 3 (UK)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3152
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: SPORT TV 1 (PT)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3155
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: SPORT TV 3 (PT)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3157
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: ELEVEN SPORT 1 (PT)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3160
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: ELEVEN SPORT 2 (PT)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3161
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: b**N SP0RTS 1 HD+(TR)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/100000
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: b**N SP0RTS 2 HD+(TR)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/100001
+#EXTINF:-1 group-title="WORLD SPORT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-news-de.png",VIP SPORT: SKY SPORT NEWS (DE)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3167
+#EXTINF:-1 group-title="WORLD SPORT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-de.png",VIP SPORT: SKY SPORT 1 (DE)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3168
+#EXTINF:-1 group-title="WORLD SPORT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-de.png",VIP SPORT: SKY SPORT 2 (DE)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3169
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: BUNDESLIGA 1 (DE)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3170
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: ESPN 1 HD (NL)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3173
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: ELEVEN SPORT 1 (PL)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3162
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: b**N SP0RTS PREMIUM 2 (AR)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3222
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: b**N SP0RTS PREMIUM 3 (AR)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3221
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: b**N SP0RTS 1 (AR)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3183
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: b**N SP0RTS 2 (AR)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3220
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: b**N SP0RTS 3 (AR)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3219
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: b**N SP0RTS 5 (AR)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3225
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: RMC SPORT 1 (FR)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3184
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: RMC SPORT 2 (FR)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3185
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: RMC SPORT 3 (FR)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3186
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: RMC SPORT 4 (FR)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3187
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: SPORT KLUB 2 (EX-YU)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3200
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: SPORT KLUB 3 (EX-YU)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3201
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: SPORT KLUB 4 (EX-YU)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3202
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: Super Sport 1 (AL)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3203
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: Super Sport 2 (AL)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3204
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: Super Sport 3 (AL)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3205
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: DIGI SPORT 3 (RO)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3210
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: DIGI SPORT 4 (RO)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3211
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: UFC Network
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3228
+#EXTINF:-1 group-title="WORLD SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png",VIP SPORT: NBA Network (US)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3229
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: NFL Network (US)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3232
+#EXTINF:-1 group-title="WORLD SPORT",VIP SPORT: WWE Network (US)
+http://de-local.cc:8080/cGpzePnjhQEd/sEMwdP67NZTH/3233
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",IT: Eurosport 1
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159559
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",IT: Eurosport 2
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159560
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Inter_TV_-_Logo_2017.svg/2560px-Inter_TV_-_Logo_2017.svg.png",IT: Inter TV
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159561
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Reggio_TV_logo.png",IT: RTV Reggio
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159563
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png",IT: Sky Sport F1
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159567
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png",IT: Sky Sport Football
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159568
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sky_Sport_Golf_HD_-_Logo_2018.svg/1280px-Sky_Sport_Golf_HD_-_Logo_2018.svg.png",IT: Sky Sport Golf
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159569
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sky_Sport_MotoGP_-_Logo_2018.svg/1280px-Sky_Sport_MotoGP_-_Logo_2018.svg.png",IT: Sky Sport MotoGP
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159570
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sky_Sport_NBA_-_Logo_2020.svg/1280px-Sky_Sport_NBA_-_Logo_2020.svg.png",IT: Sky Sport NBA
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/161954
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Sky_Sport_Arena_-_Logo_2018.svg/1280px-Sky_Sport_Arena_-_Logo_2018.svg.png",IT: Sky Sport Arena
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/161955
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="http://worldiptv.xyz/chlogos/BTSportX3.uk.png",UK: BT Sport Extra 3
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/94869
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Sky_Sports_F1_HD.png",UK: Sky Sport F1 HD
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/95001
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="http://worldiptv.xyz/chlogos/SkySportsRacing.uk.png",UK: Sky Sport Racing
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/94827
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Sky_Sports_Football_HD.png",UK: Sky Sport Football HD
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/95002
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Sky_Sports_News_HD_UK.png",UK: Sky Sport News
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/95007
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="http://panel.tivix.eu:8000/logo1/greece/Cosmote%20Sport%201%20FHD.png",GR: Cosmote Sport 1
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/95825
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="http://panel.tivix.eu:8000/logo1/greece/Cosmote%20Sport%202%20FHD.png",GR: Cosmote Sport 2
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/95826
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="http://panel.tivix.eu:8000/logo1/greece/Cosmote%20Sport%203%20FHD.png",GR: Cosmote Sport 3
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/95827
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="http://panel.tivix.eu:8000/logo1/greece/Cosmote%20Sport%204%20FHD.png",GR: Cosmote Sport 4
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/95828
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="http://panel.tivix.eu:8000/logo1/greece/Cosmote%20Sport%205%20FHD.png",GR: Cosmote Sport 5
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/95829
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="http://worldiptv.xyz/chlogos/Eurosport2.gr.png",GR: Eurosport 2
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/73559
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png",USA: ELEVEN SPORTS
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159524
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/espnnews.png",USA: ESPN News
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159526
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://2uf0hc1o8rpw1vv8k4e8o825-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2021/02/Golf-Network-Logo-1500x850-1-1500x450.png",USA: Golf Channel
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159535
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/NBC_Sports_Boston.png",USA: NBC Sports Boston
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159538
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/1024px-Olympic_Channel_logo.png",USA: Olympic Channel
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159542
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://static.pac-12.com/images/logos/pac-12-losangeles-logo.png",USA: PAC 12 Los Angeles
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159544
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://pbs.twimg.com/profile_images/1345005279285551105/nd676AiJ_400x400.png",USA: SportsGrid
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159547
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png",PT: Eleven Sports 1 HD
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159576
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://www.nicepng.com/png/detail/140-1402045_eleven-sports-eleven-sports-2-logo.png",PT: Eleven Sports 2 HD
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159577
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-3-hd.png",PT: Eleven Sports 3 HD
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159578
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png",PT: Eleven Sports 4 HD
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159579
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png",PT: Eleven Sports 5 HD
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159580
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png",PT: Eleven Sports 6 HD
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159581
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://www.seekpng.com/png/full/357-3578768_sport-tv-1-hd.png",PT: Sport Tv HD
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159582
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/qypxry1470408244.png",PT: Sport Tv 4
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159585
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png",PT: Benfica TV
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159587
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="http://worldiptv.xyz/chlogos/british_eurosport_2.png",PT: Eurosport 2
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159590
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="http://worldiptv.xyz/chlogos/british_eurosport_1.png",PT: Eurosport 1 HD
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159591
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://airlink.ge/wp-content/uploads/2021/01/mqs.png",RU: Match 1 HD
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159612
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/j19l3a1601730000.png",RU: Match Premier HD
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159615
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://www.coolstreaming.us/img/ch/image74366847240.jpg",Астрахань.Ru Sport TV HD
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159618
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://ntvplus.tv/files/image/01/17/32/i2o.png",RU: МАТЧ! ИГРА
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159620
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://ewsat.com/img/VIASAT_GOLF.png",DK: Viasat Sport Golf HD
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159622
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://wikiimg.tojsiabtv.com/wikipedia/en/4/49/TV3_Sport_logo_2018.png",DK: TV3 Sport HD
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159623
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="http://worldiptv.xyz/chlogos/TV2.dk.jpg",DK: TV2 Sport HD
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159624
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="http://upload.turkcewiki.org/wikipedia/commons/thumb/a/a3/Eurosport_2_Logo_%282011-2015%29.svg/1200px-Eurosport_2_Logo_%282011-2015%29.svg.png",DK: Eurosport 2 HD
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159625
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="http://worldiptv.xyz/chlogos/british_eurosport_1.png",DK: Eurosport 1 HD
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159626
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Eurosport_3_HD_Logo.png",NO: Eurosport  3 HD
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159631
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="http://worldiptv.xyz/chlogos/Eurosport.au.jpg",NO: Eurosport 4 HD
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159632
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://img.favpng.com/22/9/19/eurosport-2-logo-television-png-favpng-cmwuSXe77MbXVhzQtR1dZinmb.jpg",NO: Eurosport 6 HD
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159633
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://www.seekpng.com/png/detail/471-4717071_eurosport-hd-logo-euro-sport-hd.png",NO: Eurosport 10 HD
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159634
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="http://worldiptv.xyz/chlogos/Eurosport.au.jpg",NO: Eurosport 12 HD
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159635
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="http://worldiptv.xyz/chlogos/TV2Sport.dk.jpg",NO: TV2 Sport 1 HD
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159636
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="http://worldiptv.xyz/chlogos/TV2Sport.dk.jpg",NO: TV2 Sport HD
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159637
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Tv-2-sport-premium.png",NO: TV2 Sport Premium 2 HD
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159638
+#EXTINF:-1 group-title="International Sport Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Tv-2-sport-premium.png",NO: TV2 Sport Premium HD
+http://panel.tivix.eu:80/hasankose/yKwdX9FyQ3/159639
